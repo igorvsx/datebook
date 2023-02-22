@@ -1,0 +1,5 @@
+C:\Users\Igor\source\repos\datebookwpf\datebookwpf\obj\Debug\net6.0-windows\datebookwpf.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\datebookwpf\datebookwpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Igor\source\repos\datebookwpf\datebookwpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Igor\source\repos\datebookwpf\datebookwpf\obj\Debug\net6.0-windows\datebookwpf_MarkupCompile.cache
+C:\Users\Igor\source\repos\datebookwpf\datebookwpf\obj\Debug\net6.0-windows\datebookwpf_MarkupCompile.lref
